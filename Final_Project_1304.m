@@ -1,7 +1,7 @@
 
 %ECE-1304-001 Spring 2019
 %Project #Final Project 
-%Name: Dana Palmer
+%Name:  Dana Arnold, Colton Hendricks, Megan Howell, Ayman Ahmed
 %Date: 05/06/2019
 
 
